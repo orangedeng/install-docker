@@ -1,12 +1,12 @@
 # install-docker
 Scripts for docker-machine to install a particular docker version
 
-Hosted at https://releases.rancher.com/install-docker/x.y[.z].sh, e.g.: 
+Hosted at http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/x.y[.z].sh, e.g.: 
 
-  - https://releases.rancher.com/install-docker/1.10.sh
-  - https://releases.rancher.com/install-docker/1.11.sh
-  - https://releases.rancher.com/install-docker/1.12.sh
-  - https://releases.rancher.com/install-docker/1.13.sh
-  - https://releases.rancher.com/install-docker/17.03.sh
-  - https://releases.rancher.com/install-docker/17.04.sh
-  - https://releases.rancher.com/install-docker/17.05.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/1.10.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/1.11.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/1.12.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/1.13.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/17.03.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/17.04.sh
+  - http://dev-tool.oss-cn-shenzhen.aliyuncs.com/docker-install/17.05.sh

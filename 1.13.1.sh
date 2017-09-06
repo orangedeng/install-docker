@@ -25,8 +25,8 @@ docker_version=1.13.1
 #
 
 url="https://get.docker.com/"
-apt_url="https://apt.dockerproject.org"
-yum_url="https://yum.dockerproject.org"
+apt_url="http://mirrors.aliyun.com/docker-engine/apt"
+yum_url="http://mirrors.aliyun.com/docker-engine/yum"
 gpg_fingerprint="58118E89F3A912897C070ADBF76221572C52609D"
 
 key_servers="

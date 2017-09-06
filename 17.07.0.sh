@@ -4,8 +4,8 @@ set -e
 CHANNEL="stable"
 
 docker_version=17.07.0
-apt_url="https://apt.dockerproject.org"
-yum_url="https://yum.dockerproject.org"
+apt_url="http://mirrors.aliyun.com/docker-engine/apt"
+yum_url="http://mirrors.aliyun.com/docker-engine/yum"
 gpg_fingerprint="9DC858229FC7DD38854AE2D88D81803C0EBFCD88"
 
 key_servers="
